@@ -1,4 +1,3 @@
-/*Name this external file gallery.js*/
 
 function upDate(previewPic){
     /* In this function you should 
